@@ -1,6 +1,6 @@
 # Digital-Alarm-Clock
 Introduction
-In this project you are expected to build a digital alarm clock using an Arduino microcontroller. The clock will have different functionalities implemented in it, like showing the temperature, switching between 12H and 24H modes, setting up the values for current time and alarm time, etc. via the use of buttons.
+In this project it is expected to build a digital alarm clock using an Arduino microcontroller. The clock will have different functionalities implemented in it, like showing the temperature, switching between 12H and 24H modes, setting up the values for current time and alarm time, etc. via the use of buttons.
 
 Requirements
 - LCD screen which is showing:
@@ -35,7 +35,6 @@ B3-Switching between temperature scales (Fahrenheit /Celcius)
 
 - Temperature sensor for detecting temperature
 
-- You must use TIMERS for timing (i.e. do not use delay function to update seconds)
 
  
 
